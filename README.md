@@ -118,24 +118,6 @@ Welcome to my GitHub profile! Here is a list of some of the projects I have work
 - **Status**: Active/Completed
 - **Contributions**: Open to contributions. Feel free to open an issue or submit a pull request!
 
-### 2. [Project Name 2](https://github.com/yourusername/project2)
-- **Description**: A brief description of what this project does and its purpose.
-- **Languages/Technologies**: Python, Flask, PostgreSQL
-- **Status**: Active/Completed
-- **Contributions**: Contributions welcome! Please read the contributing guidelines before getting started.
-
-### 3. [Project Name 3](https://github.com/yourusername/project3)
-- **Description**: A description of what this project solves or what the end goal is.
-- **Languages/Technologies**: Node.js, Express, MongoDB
-- **Status**: Active/Completed
-- **Contributions**: I welcome contributions to improve the project. You can submit a pull request or open an issue.
-
-### 4. [Project Name 4](https://github.com/yourusername/project4)
-- **Description**: A brief overview of the project and what makes it unique.
-- **Languages/Technologies**: C++, Qt
-- **Status**: Active/Completed
-- **Contributions**: Feel free to fork and submit a pull request!
-
 ## 🛠️ Tools and Libraries Used
 
 - [React](https://reactjs.org/)
@@ -149,5 +131,5 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 ## 📬 Contact
 
-For any inquiries or collaboration requests, feel free to [email me](mailto:your-email@example.com).
+For any inquiries or collaboration requests, feel free to [email me](mailto:learner_2021@outlook.com).
 
