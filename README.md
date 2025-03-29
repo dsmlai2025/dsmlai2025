@@ -7,15 +7,15 @@ Feel free to explore the courses and learn more about them.
 
 Certificate | MOOC | Date Completed | Status | Certificate | 
 ------------ | ------------- | -------------------- | -------------------- | -------------------- |
-**[1_product_management](#1_product_management)**  | Udacity | Apr 2020 | :heavy_check_mark: | [View Certificate](Certificates/2.0-ProductManagementCertificate_Udacity.pdf) |
-**[2_Artificial_Intelligence_Product_Management](#2_Artificial_Intelligence_Product_Management)**  | Udacity | Jan 2020 | :heavy_check_mark: | [View Certificate](Certificates/1.0-AI_ProductManager_Certificate.pdf) |
-**[3_Growth_Product_Manager](#3_Growth_Product_Manager)**  | Udacity | Dec 2020 | :heavy_check_mark: | [View Certificate](Certificates/7.0-MonetizationStrategy_UdacityCertificate.pdf) |
-**[4_Data_Product_Manager](#4_Data_Product_Manager)**  | Udacity | Apr 2021 | :heavy_check_mark: | [View Certificate](Certificates/2.0-ProductManagementCertificate_Udacity.pdf) |
-**[5_Data_Engineering](#5_Data_Engineering)**  | Udacity | Dec 2020 | :heavy_check_mark: | [View Certificate](Certificates/5.0-DataEngineering_UdacityCertificate.pdf) |
-**[6_Data_Streaming](#6_Data_Streaming)**  | Udacity | Dec 2020 | :heavy_check_mark: | [View Certificate](Certificates/6.0-DataStreaming_UdacityCertificate.pdf) |
-**[7_AWS_Cloud_Architect](#7_AWS_Cloud_Architect)**  | Udacity | Dec 2020 | :heavy_check_mark: | [View Certificate](Certificates/4.0-AWSCloudArchitect_UdacityCertificate.pdf) |
-**[8_Full_Stack_Product_Management](#8_Full_Stack_Product_Management)**  | Product School | Jan 2020 | :heavy_check_mark: | [View Certificate](Certificates/8.0-ProductSchoolCertificate.pdf) |
-**[9_DataScience_MachineLearning_AI](#9_DataScience_MachineLearning_AI)**  | Scaler | Sep 2025 | :heavy_check_mark: | [View Certificate](N/A) |
+**[1_product_management](#1_product_management)**  | Udacity | Apr 2020 | ✅ | [View Certificate](Certificates/2.0-ProductManagementCertificate_Udacity.pdf) |
+**[2_Artificial_Intelligence_Product_Management](#2_Artificial_Intelligence_Product_Management)**  | Udacity | Jan 2020 | ✅ | [View Certificate](Certificates/1.0-AI_ProductManager_Certificate.pdf) |
+**[3_Growth_Product_Manager](#3_Growth_Product_Manager)**  | Udacity | Dec 2020 | ✅ | [View Certificate](Certificates/7.0-MonetizationStrategy_UdacityCertificate.pdf) |
+**[4_Data_Product_Manager](#4_Data_Product_Manager)**  | Udacity | Apr 2021 | ✅ | [View Certificate](Certificates/2.0-ProductManagementCertificate_Udacity.pdf) |
+**[5_Data_Engineering](#5_Data_Engineering)**  | Udacity | Dec 2020 | ✅ | [View Certificate](Certificates/5.0-DataEngineering_UdacityCertificate.pdf) |
+**[6_Data_Streaming](#6_Data_Streaming)**  | Udacity | Dec 2020 | ✅ | [View Certificate](Certificates/6.0-DataStreaming_UdacityCertificate.pdf) |
+**[7_AWS_Cloud_Architect](#7_AWS_Cloud_Architect)**  | Udacity | Dec 2020 | ✅ | [View Certificate](Certificates/4.0-AWSCloudArchitect_UdacityCertificate.pdf) |
+**[8_Full_Stack_Product_Management](#8_Full_Stack_Product_Management)**  | Product School | Jan 2020 | ✅ | [View Certificate](Certificates/8.0-ProductSchoolCertificate.pdf) |
+**[9_DataScience_MachineLearning_AI](#9_DataScience_MachineLearning_AI)**  | Scaler | Sep 2025 | ❌ | N/A |
 
 ## 📚 Completed Courses
 
