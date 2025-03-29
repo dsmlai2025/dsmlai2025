@@ -10,11 +10,12 @@ Certificate | MOOC | Date Completed | Status | Certificate |
 **[1_product_management](#1_product_management)**  | Udacity | Apr 2020 | :heavy_check_mark: | [View Certificate](Certificates/2.0-ProductManagementCertificate_Udacity.pdf) |
 **[2_Artificial_Intelligence_Product_Management](#2_Artificial_Intelligence_Product_Management)**  | Udacity | Jan 2020 | :heavy_check_mark: | [View Certificate](Certificates/1.0-AI_ProductManager_Certificate.pdf) |
 **[3_Growth_Product_Manager](#3_Growth_Product_Manager)**  | Udacity | Dec 2020 | :heavy_check_mark: | [View Certificate](Certificates/7.0-MonetizationStrategy_UdacityCertificate.pdf) |
-**[4_Data_Product_Manager](#4_Data_Product_Manager)**  | Udacity | Apr 2021 | :heavy_check_mark: | |
+**[4_Data_Product_Manager](#4_Data_Product_Manager)**  | Udacity | Apr 2021 | :heavy_check_mark: | [View Certificate](Certificates/2.0-ProductManagementCertificate_Udacity.pdf) |
 **[5_Data_Engineering](#5_Data_Engineering)**  | Udacity | Dec 2020 | :heavy_check_mark: | [View Certificate](Certificates/5.0-DataEngineering_UdacityCertificate.pdf) |
 **[6_Data_Streaming](#6_Data_Streaming)**  | Udacity | Dec 2020 | :heavy_check_mark: | [View Certificate](Certificates/6.0-DataStreaming_UdacityCertificate.pdf) |
 **[7_AWS_Cloud_Architect](#7_AWS_Cloud_Architect)**  | Udacity | Dec 2020 | :heavy_check_mark: | [View Certificate](Certificates/4.0-AWSCloudArchitect_UdacityCertificate.pdf) |
 **[8_Full_Stack_Product_Management](#8_Full_Stack_Product_Management)**  | Product School | Jan 2020 | :heavy_check_mark: | [View Certificate](Certificates/8.0-ProductSchoolCertificate.pdf) |
+**[9_DataScience_MachineLearning_AI](#9_DataScience_MachineLearning_AI)**  | Scaler | Sep 2025 | :heavy_check_mark: | [View Certificate](N/A) |
 
 ## 📚 Completed Courses
 
@@ -94,6 +95,15 @@ Project Folder | Project | Detailed Description | Complete
 **[Project 1 - Design_for_Availability_Reliability_Resilience](1_Project_Design_for_Availability_Reliability_Resilience)**  |  Monitor, react and Recover | <br> - Build a Multi-Availability Zone, Multi-Region database and show how to use it in multiple geographically separate AWS regions. <br> Build a website hosting solution that is versioned so that any data destruction and accidents can be quickly and easily undone. | :heavy_check_mark:
 **[Project 2 - Design_for_Provision_Monitor_AWS_Infrastructure_Scale](2_Project_Design_for_Provision_Monitor_AWS_Infrastructure_Scale)**  | Use AWS tools to identify and implement best practices for cost, and identify and understand the elements required to design and architect scalable infrastructure. <br> - Provision and destroy infrastructure from the command line using the AWS CLI and Terraform | <br> - Plan, design, provision, and monitor infrastructure in AWS using Terraform and other open source tools. <br> Optimize infrastructure for cost and performance. | :heavy_check_mark:
 **[Project 3 - Design_for_Security](3_Project_Design_for_Security)**  | Cloud Security - Secure access to cloud services, infrastructure, data. <br> - Best practices and strategies around securing access to cloud services and infrastructure.  | <br> - Deploy and assess a simple web application environment’s security posture. <br> - Test the security of the environment by simulating attack scenarios and exploiting cloud configuration vulnerabilities. <br> - Implement monitoring to identify insecure configurations and malicious activity. <br> Harden and secure the environment. <br> Design a DevSecOps pipeline | :heavy_check_mark:
+
+## [9_DataScience_MachineLearning_AI](#9_DataScience_MachineLearning_AI)
+Course Details: https://www.scaler.com/data-science-course/
+
+Module | Description | Deliverables |
+------------ | ------------- | -------------------- |
+M1_Beginner | - SQL, Tableau, Python Programming, Product Analytics | Business Cases, Assignments, Module Test, Practice Interviews
+M2_Intermediate | - Adv Python, Data Visualization, Probability Statistics, DAV Fundamentals | Business Cases, Assignments, Module Test, Practice Interviews
+M3_Advanced | - Math ML, Machine Learning, Neural Networks, ML Ops, ML Supervised, Unsupervised Algorithms, Computer Vision, NLP | Business Cases, Assignments, Module Test, Practice Interviews
 
 
 # My GitHub Projects
