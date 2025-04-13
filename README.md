@@ -15,7 +15,7 @@ Certificate | MOOC | Date Completed | Status | Certificate |
 **[6_Data_Streaming](#6_Data_Streaming)**  | Udacity | Dec 2020 | ✅ | [View Certificate](Certificates/6.0-DataStreaming_UdacityCertificate.pdf) |
 **[7_AWS_Cloud_Architect](#7_AWS_Cloud_Architect)**  | Udacity | Dec 2020 | ✅ | [View Certificate](Certificates/4.0-AWSCloudArchitect_UdacityCertificate.pdf) |
 **[8_Full_Stack_Product_Management](#8_Full_Stack_Product_Management)**  | Product School | Jan 2020 | ✅ | [View Certificate](Certificates/8.0-ProductSchoolCertificate.pdf) |
-**[9_DataScience_MachineLearning_AI](#9_DataScience_MachineLearning_AI)**  | Scaler | Sep 2025 | ❌ | N/A |
+**[9_DataScience_MachineLearning_AI](#9_DataScience_MachineLearning_AI)**  | Scaler | Sep 2025 | In Progress | N/A |
 
 ## 📚 Completed Courses
 
