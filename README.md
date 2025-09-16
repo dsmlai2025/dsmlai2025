@@ -72,7 +72,7 @@
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) 
 
 ## My Online Course Certifications
-
+For details on my professional learning journey, please see the [Courses and Certifications](Professional_Development.md) section.
 
 ## 📬 Contact
 
