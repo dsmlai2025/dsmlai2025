@@ -7,7 +7,7 @@ Feel free to explore the courses and learn more about them.
 
 Certificate | MOOC | Date Completed | Status | Certificate | 
 ------------ | ------------- | -------------------- | -------------------- | -------------------- |
-**[1_product_management](#1_product_management)**  | ![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=flat-square&logo=udacity&logoColor=white) | Apr 2020 | ✅ | [View Certificate](Certificates/2.0-ProductManagementCertificate_Udacity.pdf) |
+**[Product Management](Product_Management_course_details.md) section.**  | ![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=flat-square&logo=udacity&logoColor=white) | Apr 2020 | ✅ | [View Certificate](Certificates/2.0-ProductManagementCertificate_Udacity.pdf) |
 **[2_Artificial_Intelligence_Product_Management](#2_Artificial_Intelligence_Product_Management)**  | ![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=flat-square&logo=udacity&logoColor=white) | Jan 2020 | ✅ | [View Certificate](Certificates/1.0-AI_ProductManager_Certificate.pdf) |
 **[3_Growth_Product_Manager](#3_Growth_Product_Manager)**  | ![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=flat-square&logo=udacity&logoColor=white) | Dec 2020 | ✅ | [View Certificate](Certificates/7.0-MonetizationStrategy_UdacityCertificate.pdf) |
 **[4_Data_Product_Manager](#4_Data_Product_Manager)**  | ![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=flat-square&logo=udacity&logoColor=white) | Apr 2021 | ✅ | [View Certificate](Certificates/2.0-ProductManagementCertificate_Udacity.pdf) |
