@@ -74,6 +74,9 @@
 ## My Online Course Certifications
 For details on my professional learning journey, please see the [Courses and Certifications](Professional_Development.md) section.
 
+## My Projects
+Explore the index of all my work [Projects](Projects.md) section.
+
 ## 📬 Contact
 
 For any inquiries or collaboration requests, feel free to [email me](mailto:learner_2021@outlook.com).
