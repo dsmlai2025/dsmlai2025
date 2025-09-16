@@ -5,6 +5,7 @@
 |--------------|------------|---------------------|
 | [Project Name](/path/to/folder) | Tool1, Tool2, Tool3 | Brief description of the project, highlighting key objectives and outcomes. |
 | [Another Project](/path/to/folder) | ToolA, ToolB | Summary of what the project involved, tools used, and impact or results. |
+| ![Target](https://img.shields.io/badge/Target-red?style=flat-square&logo=target&logoColor=white) | |
 
 ### Tableau
 | Project Link | Tools Used | Project Description |
@@ -18,6 +19,11 @@
 |--------------|------------|---------------------|
 | [Project Name](/path/to/folder) | Tool1, Tool2, Tool3 | Brief description of the project, highlighting key objectives and outcomes. |
 | [Another Project](/path/to/folder) | ToolA, ToolB | Summary of what the project involved, tools used, and impact or results. |
+| Delhivery |
+| Yulu |
+| Walmart |
+| Aerofit |
+| Netflix |
 
 
 ### Product Analytics
