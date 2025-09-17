@@ -11,7 +11,8 @@
 ### Tableau
 | Project Link | Tools Used | Project Description |
 |--------------|------------|---------------------|
-| [Project Name](/path/to/folder) | Tool1, Tool2, Tool3 | Brief description of the project, highlighting key objectives and outcomes. |
+| [![Badge](https://img.shields.io/badge/HR--Analytics-1F3A93?style=for-the-badge&logo=analytics&logoColor=white)](https://github.com/dsmlai2025/Tableau/tree/main/HR%20Analytics%20Dashboard) | ![Tableau badge](https://img.shields.io/badge/tableau-E97627?logo=tableau&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | <ul><li> Developed an HR Analytics Dashboard using Tableau to visualize key HR metrics like employee turnover, headcount, engagement, recruitment efficiency, and performance, enabling data-driven decision making.
+ </li><li> Integrated interactive features allowing users to filter and drill down by department, location, or job level, enhancing insights into workforce trends and supporting strategic HR planning. </li></ul>  |
 | [Another Project](/path/to/folder) | ToolA, ToolB | Summary of what the project involved, tools used, and impact or results. |
 
 
