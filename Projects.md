@@ -18,55 +18,55 @@
 ### Python & Libraries
 | Project Link | Tools Used | Project Description |
 |--------------|------------|---------------------|
-| [Project Name](/path/to/folder) | Tool1, Tool2, Tool3 | Brief description of the project, highlighting key objectives and outcomes. |
-| [Another Project](/path/to/folder) | ToolA, ToolB | Summary of what the project involved, tools used, and impact or results. |
-| Delhivery |
-| Yulu |
-| Walmart |
-| Aerofit |
-| Netflix |
+| Netflix |  Tool1, Tool2, Tool3 | <ul><li> To be filled . </li><li> To be filled . |
+| Aerofit |  Tool1, Tool2, Tool3 | <ul><li> To be filled . </li><li> To be filled .|
+| Walmart |  Tool1, Tool2, Tool3 | <ul><li> To be filled . </li><li> To be filled . |
+| Yulu |  Tool1, Tool2, Tool3 | <ul><li> To be filled . </li><li> To be filled . |
 
 
 ### Product Analytics
 | Project Link | Tools Used | Project Description |
 |--------------|------------|---------------------|
-| [Project Name](/path/to/folder) | Tool1, Tool2, Tool3 | Brief description of the project, highlighting key objectives and outcomes. |
-| [Another Project](/path/to/folder) | ToolA, ToolB | Summary of what the project involved, tools used, and impact or results. |
+| RFM |  Tool1, Tool2, Tool3 | <ul><li> To be filled . </li><li> To be filled . |
+| Metrics |  Tool1, Tool2, Tool3 | <ul><li> To be filled . </li><li> To be filled . |
+| RCA |  Tool1, Tool2, Tool3 | <ul><li> To be filled . </li><li> To be filled . |
+| Delhivery |  Tool1, Tool2, Tool3 | <ul><li> To be filled . </li><li> To be filled . |
 
 
 ### Machine Learning Supervised
 | Project Link | Tools Used | Project Description |
 |--------------|------------|---------------------|
-| [Project Name](/path/to/folder) | Tool1, Tool2, Tool3 | Brief description of the project, highlighting key objectives and outcomes. |
-| [Another Project](/path/to/folder) | ToolA, ToolB | Summary of what the project involved, tools used, and impact or results. |
+| Jamboree |  Tool1, Tool2, Tool3 | <ul><li> To be filled . </li><li> To be filled . |
+| Loan Tap |  Tool1, Tool2, Tool3 | <ul><li> To be filled . </li><li> To be filled . |
+| Ola      |  Tool1, Tool2, Tool3 | <ul><li> To be filled . </li><li> To be filled . |
 
 ### Machine Learning Unsupervised
 | Project Link | Tools Used | Project Description |
 |--------------|------------|---------------------|
-| [Project Name](/path/to/folder) | Tool1, Tool2, Tool3 | Brief description of the project, highlighting key objectives and outcomes. |
-| [Another Project](/path/to/folder) | ToolA, ToolB | Summary of what the project involved, tools used, and impact or results. |
+| Project Name | Tool 1 Tool 2 | <ul><li> To be filled . </li><li> To be filled . </li></ul> |
+| Project Name | Tool 1 Tool 2 | <ul><li> To be filled . </li><li> To be filled . </li></ul> |
 
 ### Machine Learning Computer Vision
 | Project Link | Tools Used | Project Description |
 |--------------|------------|---------------------|
-| [Project Name](/path/to/folder) | Tool1, Tool2, Tool3 | Brief description of the project, highlighting key objectives and outcomes. |
-| [Another Project](/path/to/folder) | ToolA, ToolB | Summary of what the project involved, tools used, and impact or results. |
+| Project Name | Tool 1 Tool 2 | <ul><li> To be filled . </li><li> To be filled . </li></ul> |
+| Project Name | Tool 1 Tool 2 | <ul><li> To be filled . </li><li> To be filled . </li></ul> |
 
 ### Machine Learning NLP
 | Project Link | Tools Used | Project Description |
 |--------------|------------|---------------------|
-| [Project Name](/path/to/folder) | Tool1, Tool2, Tool3 | Brief description of the project, highlighting key objectives and outcomes. |
-| [Another Project](/path/to/folder) | ToolA, ToolB | Summary of what the project involved, tools used, and impact or results. |
+| Project Name | Tool 1 Tool 2 | <ul><li> To be filled . </li><li> To be filled . </li></ul> |
+| Project Name | Tool 1 Tool 2 | <ul><li> To be filled . </li><li> To be filled . </li></ul> |
 
 ### Machine Learning Neural Networks
 | Project Link | Tools Used | Project Description |
 |--------------|------------|---------------------|
-| [Project Name](/path/to/folder) | Tool1, Tool2, Tool3 | Brief description of the project, highlighting key objectives and outcomes. |
-| [Another Project](/path/to/folder) | ToolA, ToolB | Summary of what the project involved, tools used, and impact or results. |
+| Project Name | Tool 1 Tool 2 | <ul><li> To be filled . </li><li> To be filled . </li></ul> |
+| Project Name | Tool 1 Tool 2 | <ul><li> To be filled . </li><li> To be filled . </li></ul> |
 
 ### Machine Learning Gen AI
 | Project Link | Tools Used | Project Description |
 |--------------|------------|---------------------|
-| [Project Name](/path/to/folder) | Tool1, Tool2, Tool3 | Brief description of the project, highlighting key objectives and outcomes. |
-| [Another Project](/path/to/folder) | ToolA, ToolB | Summary of what the project involved, tools used, and impact or results. |
+| Project Name | Tool 1 Tool 2 | <ul><li> To be filled . </li><li> To be filled . </li></ul> |
+| Project Name | Tool 1 Tool 2 | <ul><li> To be filled . </li><li> To be filled . </li></ul> |
 
