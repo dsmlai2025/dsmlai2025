@@ -63,10 +63,10 @@
 
 ## Practice Forums
 - **Sites:**
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#), [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](#) ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](#) 
 
 - **Education:**
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](#), [![Udacity](https://img.shields.io/badge/Udacity-02B3E4?logo=udacity&logoColor=fff)](#), [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](#) [![Udacity](https://img.shields.io/badge/Udacity-02B3E4?logo=udacity&logoColor=fff)](#) [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#)
 
 - **Blogs:**
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) 
